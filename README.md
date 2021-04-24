@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO --> 
 <br />
 <p align="center">
-  <a href="https://thewalkingduff.github.io/train-tracker/">
+  <a href="https://thewalkingduff.github.io/pinky/">
     <img src="images/pinky.jpg" alt="Logo">
   </a>
 
@@ -12,14 +12,14 @@
   <p align="center">
     A silly app that helps cure a large pair of eyes' case of pink eye by manipulating the DOM.
     <br />
-    <a href="https://thewalkingduff.github.io/train-tracker/"><strong>Explore the docs »</strong></a>
+    <a href="https://thewalkingduff.github.io/pinky/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://thewalkingduff.github.io/train-tracker/">View Demo</a>
+    <a href="https://thewalkingduff.github.io/pinky/">View Demo</a>
     ·
-    <a href="https://thewalkingduff.github.io/train-tracker/">Report Bug</a>
+    <a href="https://thewalkingduff.github.io/pinky/">Report Bug</a>
     ·
-    <a href="https://thewalkingduff.github.io/train-tracker/">Request Feature</a>
+    <a href="https://thewalkingduff.github.io/pinky/">Request Feature</a>
   </p>
 </p>
 
@@ -53,12 +53,9 @@
 
 ## About The Project
 
-<a href="https://thewalkingduff.github.io/train-tracker/">BOSTON TRAIN TRACKER</a>
-
 Cure and cause conjunctivitis with this silly app.
-<a href="https://www.mbta.com/developers/v3-api">MBTA V3 API</a>
 
-`thewalkingduff`, `train-tracker`, `@duffManCode`, `bduffy@devduffy.com`, `Boston Train Tracker`
+`thewalkingduff`, `pinky`, `@duffManCode`, `bduffy@devduffy.com`, `Pinky`
 
 ### Built With
 
@@ -86,7 +83,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://thewalkingduff.github.io/train-tracker/.git
+   git clone https://thewalkingduff.github.io/pinky.git
    ```
 2. Install NPM packages
    ```sh
@@ -131,15 +128,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Brendan Duffy - [@duffManCode](https://twitter.com/twitter_handle) - bduffy@devduffy.com
+Brendan Duffy - [@duffManCode](https://twitter.com/duffManCode) - bduffy@devduffy.com
 
-Project Link: [https://thewalkingduff.github.io/train-tracker/](https://thewalkingduff.github.io/train-tracker/)
+Project Link: [https://thewalkingduff.github.io/pinky/](https://thewalkingduff.github.io/pinky/)
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## Acknowledgements
 
-- [@locphamthanh at Canva (Subway graphic/icon)](https://www.canva.com/p/locphamthanh/)
+- MIT xPro
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
