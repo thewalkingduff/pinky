@@ -1,13 +1,6 @@
 let leftEye = document.getElementsByClassName('left-eye')
 let rightEye = document.getElementsByClassName('right-eye');
-
-
 const balls = document.getElementsByClassName('ball');
-// let eye = document.getElementsByClassName('eye');
-
-
-
-
 
 document.onmousemove = (event) => {
   const x = (event.clientX * 100) / window.innerWidth + '%';
@@ -19,14 +12,6 @@ document.onmousemove = (event) => {
     balls[i].transform = 'translate(-' + x + ',-' + y + ')';
   }
 };
-
-// if (leftEye.style.backGround === 'white' && rightEye.style.backGround === 'white') {
-//   document.body.classList.remove('medicine')
-// } else {
-//   document.body.classList.add('medicine')
-// }
-
-// console.log(leftEye)
 
 function eyeDropper() {
   document.body.classList.toggle('medicine')
@@ -48,16 +33,10 @@ function checkIfLeftPink() {
   }
 }
 
-console.log(rightEye)
-
-
-
 function leftPinkToWhite() {
   for (let i = 0; i < 2; i++) {
     document.getElementsByClassName('left-eye')[i].classList.toggle('white')
-    // if (true) { eyeDropper() }
   }
-
 }
 
 function rightPinkToWhite() {
@@ -67,14 +46,13 @@ function rightPinkToWhite() {
   }
 }
 
-for (let i = 0; i < 2; i++) {
+for (let i = 0; i < 10; i++) {
   let leftEye = document.getElementsByClassName('left-eye')
   let rightEye = document.getElementsByClassName('right-eye');
   leftEye[i].addEventListener('click', leftPinkToWhite);
   rightEye[i].addEventListener('click', rightPinkToWhite,);
   rightEye[i].addEventListener('mouseover', checkIfRightPink)
   leftEye[i].addEventListener('mouseover', checkIfLeftPink)
-
 }
 
 
