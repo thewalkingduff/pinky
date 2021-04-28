@@ -10,7 +10,7 @@
   <h3 align="center">Pinky</h3>
 
   <p align="center">
-    A silly app that helps cure a large pair of eyes' case of pink eye by manipulating the DOM.
+    An app that helps cure a large pair of eyes' case of pink eye by manipulating the DOM.
     <br />
     <a href="https://thewalkingduff.github.io/pinky/"><strong>Explore the docs »</strong></a>
     <br />
